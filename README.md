@@ -1,6 +1,6 @@
-# Belajar CSS Dasar
+# Belajar CSS dasar
 
-Repository ini berisi latihan dasar CSS sebagai bagian dari proses belajar Web Development.
+Repository ini berisi latihan dasar CSS cevest
 
 ## Materi
 
